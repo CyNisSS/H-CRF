@@ -1,0 +1,194 @@
+data:cora ,w_d: 0.0005, epoch: 200,hidden_dim: 16,drop: 0.50 ,lr: 0.010000,test loss: 0.76317,test acc: 0.82100
+data:cora ,w_d: 0.0005, epoch: 200,hidden_dim: 16,drop: 0.50 ,lr: 0.010000,test loss: 0.67119,test acc: 0.82300
+data:cora ,w_d: 0.0005, epoch: 200,hidden_dim: 16,drop: 0.50 ,lr: 0.010000,test loss: 0.65793,test acc: 0.82600
+================================================================================================================
+data:cora ,w_d: 0.0005, epoch: 200,hidden_dim: 16,drop: 0.50 ,lr: 0.010000,test loss: 0.76317,test acc: 0.82100
+data:cora ,w_d: 0.0005, epoch: 200,hidden_dim: 16,drop: 0.50 ,lr: 0.010000,test loss: 0.67119,test acc: 0.82300
+data:cora ,w_d: 0.0005, epoch: 200,hidden_dim: 16,drop: 0.50 ,lr: 0.010000,test loss: 0.65793,test acc: 0.82600
+================================================================================================================
+data:cora ,w_d: 0.0005, epoch: 200,hidden_dim: 16,drop: 0.50 ,lr: 0.010000,test loss: 0.76317,test acc: 0.82100
+data:cora ,w_d: 0.0005, epoch: 200,hidden_dim: 16,drop: 0.50 ,lr: 0.010000,test loss: 0.67119,test acc: 0.82300
+data:cora ,w_d: 0.0005, epoch: 200,hidden_dim: 16,drop: 0.50 ,lr: 0.010000,test loss: 0.65793,test acc: 0.82600
+================================================================================================================
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 1,test loss: 0.61193,test acc: 0.82100
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 1,test loss: 0.68229,test acc: 0.80200
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 2,test loss: 0.68237,test acc: 0.80300
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 2,test loss: 0.62462,test acc: 0.80100
+MAX_ACC: 0.8030, AVERAGE_ACC: 0.8020(+-)0.000002, CURRENT_DATE: 2024-02-17
+================================================================================================================
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 2,test loss: 0.61698,test acc: 0.82200
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 2,test loss: 0.59229,test acc: 0.82000
+MAX_ACC: 0.8220, AVERAGE_ACC: 0.8210(+-)0.000002, CURRENT_DATE: 2024-02-17
+================================================================================================================
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.62469,test acc: 0.82100
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.59621,test acc: 0.81500
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.57358,test acc: 0.82500
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.58338,test acc: 0.82200
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.57668,test acc: 0.82100
+MAX_ACC: 0.8250, AVERAGE_ACC: 0.8208(+-)0.000013, CURRENT_DATE: 2024-02-17
+================================================================================================================
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 64,drop: 0.50 ,experi_rounds: 5,test loss: 0.61914,test acc: 0.81100
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 64,drop: 0.50 ,experi_rounds: 5,test loss: 0.58022,test acc: 0.81800
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 64,drop: 0.50 ,experi_rounds: 5,test loss: 0.60130,test acc: 0.81700
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 64,drop: 0.50 ,experi_rounds: 5,test loss: 0.59852,test acc: 0.81300
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 64,drop: 0.50 ,experi_rounds: 5,test loss: 0.58709,test acc: 0.81200
+MAX_ACC: 0.8180, AVERAGE_ACC: 0.8142(+-)0.000010, CURRENT_DATE: 2024-02-17
+================================================================================================================
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.62469,test acc: 0.82100
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.59621,test acc: 0.81500
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.57358,test acc: 0.82500
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.58338,test acc: 0.82200
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.57668,test acc: 0.82100
+MAX_ACC: 0.8250, AVERAGE_ACC: 0.8208(+-)0.000013, CURRENT_DATE: 2024-02-17
+================================================================================================================
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.63138,test acc: 0.81900
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.58815,test acc: 0.81900
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.57096,test acc: 0.82100
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.57548,test acc: 0.81600
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.57288,test acc: 0.81700
+MAX_ACC: 0.8210, AVERAGE_ACC: 0.8184(+-)0.000004, CURRENT_DATE: 2024-02-17
+================================================================================================================
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.62938,test acc: 0.81800
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.58724,test acc: 0.82000
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.58165,test acc: 0.82600
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.58274,test acc: 0.82200
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.58591,test acc: 0.82300
+MAX_ACC: 0.8260, AVERAGE_ACC: 0.8218(+-)0.000009, CURRENT_DATE: 2024-02-17
+================================================================================================================
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.63041,test acc: 0.81800
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.59689,test acc: 0.81700
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.58044,test acc: 0.82500
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.58784,test acc: 0.81800
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.58835,test acc: 0.81600
+MAX_ACC: 0.8250, AVERAGE_ACC: 0.8188(+-)0.000013, CURRENT_DATE: 2024-02-17
+================================================================================================================
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.63041,test acc: 0.81800
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.59689,test acc: 0.81700
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.58044,test acc: 0.82500
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.58784,test acc: 0.81800
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.58835,test acc: 0.81600
+MAX_ACC: 0.8250, AVERAGE_ACC: 0.8188(+-)0.000013, CURRENT_DATE: 2024-02-17
+================================================================================================================
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.78541,test acc: 0.80200
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.66712,test acc: 0.80400
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.73531,test acc: 0.78600
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.73544,test acc: 0.79600
+data:CORA ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.73653,test acc: 0.78800
+MAX_ACC: 0.8040, AVERAGE_ACC: 0.7952(+-)0.000065, CURRENT_DATE: 2024-02-17
+================================================================================================================
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.98283,test acc: 0.71600
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.91701,test acc: 0.71900
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.89449,test acc: 0.72200
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.90481,test acc: 0.71000
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.90440,test acc: 0.72000
+MAX_ACC: 0.7220, AVERAGE_ACC: 0.7174(+-)0.000022, CURRENT_DATE: 2024-02-17
+================================================================================================================
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 1.01279,test acc: 0.66900
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 1.10799,test acc: 0.68500
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 1.25245,test acc: 0.67900
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 1.26622,test acc: 0.67900
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 1.08919,test acc: 0.69800
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 1.23029,test acc: 0.69100
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 1.31998,test acc: 0.68800
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 1.34756,test acc: 0.67800
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 1.33751,test acc: 0.68700
+MAX_ACC: 0.6980, AVERAGE_ACC: 0.6884(+-)0.000052, CURRENT_DATE: 2024-02-17
+================================================================================================================
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.88416,test acc: 0.71900
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.88103,test acc: 0.71600
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.88221,test acc: 0.71600
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.90724,test acc: 0.71000
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.90978,test acc: 0.70500
+MAX_ACC: 0.7190, AVERAGE_ACC: 0.7132(+-)0.000032, CURRENT_DATE: 2024-02-18
+================================================================================================================
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.88416,test acc: 0.71900
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.88103,test acc: 0.71600
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.88221,test acc: 0.71600
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.90724,test acc: 0.71000
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.90978,test acc: 0.70500
+MAX_ACC: 0.7190, AVERAGE_ACC: 0.7132(+-)0.000032, CURRENT_DATE: 2024-02-18
+================================================================================================================
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 1.01105,test acc: 0.70200
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 1.10841,test acc: 0.69600
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 1.13260,test acc: 0.69700
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 1.14069,test acc: 0.70200
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 1.12988,test acc: 0.70400
+MAX_ACC: 0.7040, AVERAGE_ACC: 0.7002(+-)0.000012, CURRENT_DATE: 2024-02-18
+================================================================================================================
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.85002,test acc: 0.72300
+data:CITESEER ,coarsen_level: 1, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.84611,test acc: 0.71900
+data:CITESEER ,coarsen_level: 1, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.84935,test acc: 0.71300
+data:CITESEER ,coarsen_level: 1, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.84731,test acc: 0.71800
+data:CITESEER ,coarsen_level: 1, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.84968,test acc: 0.71600
+data:CITESEER ,coarsen_level: 1, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.84694,test acc: 0.71600
+MAX_ACC: 0.7190, AVERAGE_ACC: 0.7164(+-)0.000005, CURRENT_DATE: 2024-02-18
+================================================================================================================
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.85002,test acc: 0.72300
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.87419,test acc: 0.71900
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.88222,test acc: 0.71900
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.88361,test acc: 0.72000
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.88645,test acc: 0.71800
+MAX_ACC: 0.7230, AVERAGE_ACC: 0.7198(+-)0.000004, CURRENT_DATE: 2024-02-18
+================================================================================================================
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.85002,test acc: 0.72300
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.87419,test acc: 0.71900
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.88222,test acc: 0.71900
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.88361,test acc: 0.72000
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.88645,test acc: 0.71800
+MAX_ACC: 0.7230, AVERAGE_ACC: 0.7198(+-)0.000004, CURRENT_DATE: 2024-02-18
+================================================================================================================
+data:CORA ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.80735,test acc: 0.81700
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.98275,test acc: 0.72700
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.89303,test acc: 0.73200
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.88100,test acc: 0.72800
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.86559,test acc: 0.72400
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.87395,test acc: 0.73100
+MAX_ACC: 0.7320, AVERAGE_ACC: 0.7284(+-)0.000010, CURRENT_DATE: 2024-02-18   GCN
+================================================================================================================
+data:CITESEER ,coarsen_level: 3, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.99470,test acc: 0.72900
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.95178,test acc: 0.72600
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.89483,test acc: 0.72300
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.87785,test acc: 0.71800
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.86082,test acc: 0.73000
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.86186,test acc: 0.72700
+MAX_ACC: 0.7300, AVERAGE_ACC: 0.7248(+-)0.000021, CURRENT_DATE: 2024-02-18
+================================================================================================================
+data:CITESEER ,coarsen_level: 3, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.91713,test acc: 0.71300
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 1.03443,test acc: 0.69800
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 1.17089,test acc: 0.69000
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 1.25663,test acc: 0.67800
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 1.26538,test acc: 0.67500
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 1.25947,test acc: 0.68900
+MAX_ACC: 0.6980, AVERAGE_ACC: 0.6860(+-)0.000088, CURRENT_DATE: 2024-02-18
+================================================================================================================
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 1.03443,test acc: 0.69800
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 1.17089,test acc: 0.69000
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 1.25663,test acc: 0.67800
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 1.26538,test acc: 0.67500
+data:CITESEER ,coarsen_level: 4, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 1.25947,test acc: 0.68900
+MAX_ACC: 0.6980, AVERAGE_ACC: 0.6860(+-)0.000088, CURRENT_DATE: 2024-02-18
+================================================================================================================
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 15,test loss: 0.86936,test acc: 0.71500
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 15,test loss: 0.89982,test acc: 0.71600
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 15,test loss: 0.92761,test acc: 0.71100
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 15,test loss: 0.91632,test acc: 0.71600
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 15,test loss: 0.92924,test acc: 0.71900
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 15,test loss: 0.93558,test acc: 0.72600
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 15,test loss: 0.92883,test acc: 0.72500
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 15,test loss: 0.94637,test acc: 0.70600
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 15,test loss: 0.93819,test acc: 0.71300
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 15,test loss: 0.94889,test acc: 0.71900
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 15,test loss: 0.97377,test acc: 0.70500
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 15,test loss: 0.92339,test acc: 0.72000
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 15,test loss: 0.94896,test acc: 0.70900
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 15,test loss: 0.94118,test acc: 0.72000
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 15,test loss: 0.94333,test acc: 0.71700
+MAX_ACC: 0.7260, AVERAGE_ACC: 0.7158(+-)0.000038, CURRENT_DATE: 2024-02-19
+================================================================================================================
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.98275,test acc: 0.72700
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.89303,test acc: 0.73200
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.88100,test acc: 0.72800
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.86559,test acc: 0.72400
+data:CITESEER ,coarsen_level: 2, epoch: 200,hidden_dim: 16,drop: 0.50 ,experi_rounds: 5,test loss: 0.87395,test acc: 0.73100
+MAX_ACC: 0.7320, AVERAGE_ACC: 0.7284(+-)0.000010, CURRENT_DATE: 2024-02-19
+================================================================================================================
